@@ -17,7 +17,7 @@
 - [License](#license)
             
 ## Installation
-<p>No installation is required, this project is a webpage hosted on Render and can be accessed <a href="https://candidatesearch-bwkn.onrender.com">here</a>.</p>
+<p>No installation is required, this project is a webpage hosted on Render and can be accessed <a href="https://candidatesearch-a0ro.onrender.com">here</a>.</p>
             
 ## Usage
 <p>This applicaiton can be used to obtain a list of Github profiles to potentially contact for collaboration or to discuss employment opportunities.</p>

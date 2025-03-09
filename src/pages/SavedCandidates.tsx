@@ -1,6 +1,6 @@
-import Table from 'react-bootstrap/Table';
-import Candidate from '../interfaces/Candidate.interface.js';
-import Button from 'react-bootstrap/Button';
+import { Table } from 'react-bootstrap';
+import Candidate from '../interfaces/Candidate.interface.tsx';
+import { Button } from 'react-bootstrap';
 
 const removeFromList = (event: React.MouseEvent<HTMLButtonElement>) => {
   const candidates: Candidate[] = JSON.parse(localStorage.getItem('candidates') || '[]');

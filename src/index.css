@@ -51,11 +51,12 @@ button {
   border-radius: 8px;
   border: 1px solid transparent;
   padding: 0.6em 1.2em;
-  font-size: 1.5em;
-  font-weight: 500;
+  font-size: 1em;
+  font-weight: 250;
   font-family: inherit;
   background-color: #1a1a1a;
   cursor: pointer;
+  margin: 0.5em;
   transition: border-color 0.25s;
 }
 button:hover {
@@ -64,6 +65,15 @@ button:hover {
 button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
+}
+
+#addButton:hover {
+  filter: brightness(1.5);
+  transition: filter 0.25s;
+}
+#removeButton:hover {
+  filter: brightness(.75);
+  transition: filter 0.25s;
 }
 
 @media (prefers-color-scheme: light) {
@@ -98,27 +108,30 @@ tbody tr:nth-child(odd) {
   background-color: #333333;
 }
 
-.nav {
+nav ul {
   display: flex;
-  justify-content: flex-start;
-  padding: 1em 2em;
-}
-
-.nav-item {
-  padding: 0 0.5rem;
-  list-style: none;
-}
-
-.nav-link {
-  color: #fff;
-  text-decoration: none;
+  list-style-type: none;
+  justify-content: space-evenly !important;
+  padding: 0;
 }
 
 .active {
   font-weight: 700;
+  filter: brightness(2);
 }
 
 .table {
   width: 80vw;
   table-layout: fixed;
+}
+
+.table td {
+  padding: 0.5em;
+  text-align: center;
+  font-size: 1em;
+  text-shadow: 1px 1px 1px black;
+}
+
+.table td a:hover {
+  filter: brightness(1.5);
 }

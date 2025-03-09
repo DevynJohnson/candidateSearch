@@ -1,2 +1,40 @@
-# candidateSearch
-An application allowing users to search though public Github profiles for potential employee candidates.
+# candidateSearch [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+            
+## Description
+<p>This application provides the user with a list of random Github profiles and some information about that user. The user can either skip to the next profile, or add the profile to a list of potential candidates for viewing, possible collaboration or possible employment.</p>
+            
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [Testing](#testing)
+- [Questions](#questions)
+- [License](#license)
+            
+## Installation
+<p>No installation is required, this project is a webpage hosted on Render and can be accessed <a href=>.</p>
+            
+## Usage
+<p>This applicaiton can be used to obtain a list of Github profiles to potentially contact for collaboration or to discuss employment opportunities.</p>
+            
+## Credits
+
+### Author
+<p>Devyn Johnson | <a href="https://github.com/DevynJohnson">Github Profile</a></p>
+        
+### Collaborators and Contribution Instructions
+
+<p>If you would like to contribute to this project, please <a href="mailto:dljohnson1313@gmail.com">email me</a>.</p>
+            
+### Third-Party Assets
+<p>react-bootstrap | <a href="https://www.npmjs.com/package/react-bootstrap">https://www.npmjs.com/package/react-bootstrap</a></p><p>React | <a href="https://react.dev/">https://react.dev/</a></p><p>Render | <a href="https://render.com/">https://render.com/</a></p><p>Vite | <a href="https://vite.dev/">https://vite.dev/</a></p><p>This project contains code provided by edX. | <a href="https://www.edx.org/">https://www.edx.org/</a></p><p>react-router-dom | <a href="https://www.npmjs.com/package/react-router-dom">https://www.npmjs.com/package/react-router-dom</a></p>
+
+## Testing
+<p>If there are any issues, please reach out to dljohnson1313@gmail.com or open an issue on the Github repository. Please provide any console errors or other relevant information about the problem being experienced.</p>
+
+## Questions
+<p>For questions, see my profile at <a href="https://github.com/DevynJohnson">Github</a> or <a href="mailto:dljohnson1313@gmail.com">email me</a>.</p>
+            
+## License
+<p>MIT</p>
+<p>License Information: <a href="https://opensource.org/licenses/MIT">https://opensource.org/licenses/MIT</a></p>

@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react";
 import { searchGithub, searchGithubUser } from "../api/API";
 import { Card, ListGroup } from "react-bootstrap";
-import Button from "react-bootstrap/Button";
-import Candidate from "../interfaces/Candidate.interface.js";
+import { Button } from "react-bootstrap";
+import Candidate from "../interfaces/Candidate.interface.tsx";
 
 
 function CandidateSearch() {

@@ -6,7 +6,7 @@ const Nav = () => {
   // TODO: Add necessary code to display the navigation bar and link between the pages
   return (
     <nav>
-      <ul>
+      <ul style={{listStyleType: "none", display: "flex", justifyContent: "space-evenly", padding: "0"}}>
         <li>
           <Link className={currentPage === "/" ? "active" : ""} to="/">Home</Link>
         </li>

@@ -27,7 +27,7 @@
 <p>If you would like to contribute to this project, please <a href="mailto:dljohnson1313@gmail.com">email me</a>.</p>
             
 ### Third-Party Assets
-<p>react-bootstrap | <a href="https://www.npmjs.com/package/react-bootstrap">https://www.npmjs.com/package/react-bootstrap</a></p><p>React | <a href="https://react.dev/">https://react.dev/</a></p><p>Render | <a href="https://render.com/">https://render.com/</a></p><p>Vite | <a href="https://vite.dev/">https://vite.dev/</a></p><p>This project contains code provided by edX. | <a href="https://www.edx.org/">https://www.edx.org/</a></p><p>react-router-dom | <a href="https://www.npmjs.com/package/react-router-dom">https://www.npmjs.com/package/react-router-dom</a></p>
+<p>react-bootstrap | <a href="https://www.npmjs.com/package/react-bootstrap">https://www.npmjs.com/package/react-bootstrap</a></p><p>React | <a href="https://react.dev/">https://react.dev/</a></p><p>Render | <a href="https://render.com/">https://render.com/</a></p><p>Vite | <a href="https://vite.dev/">https://vite.dev/</a></p><p>react-router-dom | <a href="https://www.npmjs.com/package/react-router-dom">https://www.npmjs.com/package/react-router-dom</a></p><p>This project contains code provided by edX. | <a href="https://www.edx.org/">https://www.edx.org/</a></p>
 
 ## Testing
 <p>If there are any issues, please reach out to dljohnson1313@gmail.com or open an issue on the Github repository. Please provide any console errors or other relevant information about the problem being experienced.</p>

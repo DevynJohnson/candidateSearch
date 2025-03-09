@@ -2,8 +2,7 @@ import { useState, useEffect } from "react";
 import { searchGithub, searchGithubUser } from "../api/API";
 import { Card, ListGroup } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
-import Candidate from "../interfaces/Candidate.interface.tsx";
-import githubDark from "../assets/githubDark.svg";
+import Candidate from "../interfaces/Candidate.interface.js";
 
 
 function CandidateSearch() {
@@ -77,7 +76,8 @@ function CandidateSearch() {
       <Card.Img
         style={{ borderBottom: "2.5px solid black", margin: "5px" }}
         variant="top"
-        src={candidate.avatar_url || githubDark}
+        src={candidate.avatar_url}
+        alt="Candidate avatar"
       />
       <Card.Body>
         <Card.Title style={{ color: "black", fontWeight: "bold", textAlign: "center" }}>

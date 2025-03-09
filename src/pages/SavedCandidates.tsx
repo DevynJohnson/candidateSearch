@@ -1,5 +1,5 @@
 import Table from 'react-bootstrap/Table';
-import Candidate from '../interfaces/Candidate.interface.tsx';
+import Candidate from '../interfaces/Candidate.interface.js';
 import Button from 'react-bootstrap/Button';
 
 const removeFromList = (event: React.MouseEvent<HTMLButtonElement>) => {

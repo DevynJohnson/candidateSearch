@@ -5,8 +5,7 @@
     "module": "ESNext",
     "moduleResolution": "bundler",
     "allowSyntheticDefaultImports": true,
-    "strict": true,
-    "jsx": "react-jsx"
+    "strict": true
   },
   "include": ["vite.config.ts"]
 }

@@ -3,12 +3,12 @@ import Nav from './components/Nav.tsx';
 
 function App() {
   return (
-    <>
+    <div>
       <Nav />
       <main>
         <Outlet />
       </main>
-    </>
+    </div>
   );
 }
 
